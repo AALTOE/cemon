@@ -1,0 +1,130 @@
+{
+    "TelefonosCEDIS":[{
+            "ID":"CD01",    
+            "NOMBRE":"Acapulco",
+            "EXT":"5521",
+            "PUESTO":"Vigilancia"
+
+        },
+        {
+            "ID":"CD02",    
+            "NOMBRE":"AguasCalientes",
+            "EXT":"4524",
+            "PUESTO":"Taller"
+
+        },
+        {
+            "ID":"CD03",    
+            "NOMBRE":"Altamira",
+            "EXT":"1267",
+            "PUESTO":"Reparto"
+    
+        },
+        {
+            "ID":"CD04",    
+            "NOMBRE":"Arriaga",
+            "EXT":"6723",
+            "PUESTO":"Oficinas"
+    
+        },
+        {
+            "ID":"CD06",    
+            "NOMBRE":"Chihuahua",
+            "EXT":"3487",
+            "PUESTO":"Encargada"
+    
+        },
+        {
+            "ID":"CD07",    
+            "NOMBRE":"Córdoba",
+            "EXT":"4576",
+            "PUESTO":"Encargada"
+    
+        },
+        {
+            "ID":"CD08",    
+            "NOMBRE":"Culiacán",
+            "EXT":"3735",
+            "PUESTO":"Encargada"
+    
+        },
+        {
+            "ID":"CD09",    
+            "NOMBRE":"Durango",
+            "EXT":"2490",
+            "PUESTO":"Encargada"
+    
+        },
+        {
+            "ID":"CD10",    
+            "NOMBRE":"Durango",
+            "EXT":"8363",
+            "PUESTO":"Encargada"
+    
+        },
+        {
+            "ID":"CD11",    
+            "NOMBRE":"Guadalajara",
+            "EXT":"1674",
+            "PUESTO":"Encargada"
+    
+        },
+        {
+            "ID":"CD12",    
+            "NOMBRE":"Hermosillo",
+            "EXT":"9474",
+            "PUESTO":"Encargada"
+    
+        },
+        {
+            "ID":"CD13",    
+            "NOMBRE":"Irapuato",
+            "EXT":"4743",
+            "PUESTO":"Encargada"
+    
+        },
+        {
+            "ID":"CD14",    
+            "NOMBRE":"Mérida",
+            "EXT":"5824",
+            "PUESTO":"Encargada"
+    
+        },
+        {
+            "ID":"CD15",    
+            "NOMBRE":"Mexicali",
+            "EXT":"3684",
+            "PUESTO":"Encargada"
+    
+        },
+        {
+            "ID":"CD16",    
+            "NOMBRE":"Monterrey",
+            "EXT":"4527",
+            "PUESTO":"Encargada"
+    
+        },
+        {
+            "ID":"CD17",    
+            "NOMBRE":"Morelia",
+            "EXT":"367",
+            "PUESTO":"Encargada"
+    
+        },
+        {
+            "ID":"CD12",    
+            "NOMBRE":"Oaxaca",
+            "EXT":"3475",
+            "PUESTO":"Encargada"
+    
+        },
+        {
+            "ID":"CD12",    
+            "NOMBRE":"Villahermosa",
+            "EXT":"2121",
+            "PUESTO":"Encargada"
+    
+        }
+
+    ]
+}
